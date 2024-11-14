@@ -1,7 +1,7 @@
 [![Banner](./banner.png)](https://www.linkedin.com/in/josue-venegas/)
 <p align="center">
-    <a href="mailto:josuevenegasalmonacid@gmail.com" target="blank"><img align="center" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="gmail-icon" height="20" /></a>
-    <a href="https://linkedin.com/in/josue-venegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josue-venegas" height="20" /></a>
+    <a href="mailto:josuevenegasalmonacid@gmail.com" target="_blank"><img align="center" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="gmail-icon" height="20" /></a>
+    <a href="https://linkedin.com/in/josue-venegas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josue-venegas" height="20" /></a>
 </p>
 
 <h1 align="center" style="padding-top: 10px;">JOSUÉ VENEGAS</h1>
