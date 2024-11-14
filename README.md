@@ -8,20 +8,19 @@
 
 <h3 align="center">💻 Double degree student in last year of Computer Science at UTFSM 🇨🇱 and INSA Lyon 🇫🇷</h3>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="padding-right: 40px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josue-venegas&show_icons=true&locale=en&layout=compact" alt="josue-venegas" />
-    </div>
-    <div>
-        <p>- 👨🏻‍💻 I’m currently working as <strong>Data Scientist</strong> in <a href="https://atacama.bio/"><strong>Atacama Biomaterials</strong></a></p>
-        <p>- 🤝 I’m looking for <strong>a Professional Internship (Projet de fin d'études)</strong></p>
-        <p>- 📫 How to reach me <strong>josuevenegasalmonacid@gmail.com</strong></p>
-    </div>
-</div>
+<p align="center">
+  - 👨🏻‍💻 I’m currently working as <strong>Data Scientist</strong> at <a href="https://atacama.bio/"><strong>Atacama Biomaterials</strong></a><br>
+  - 🤝 I’m looking for <strong>a Professional Internship (Projet de fin d'études)</strong><br>
+  - 📫 How to reach me <strong>josuevenegasalmonacid@gmail.com</strong>
+</p>
 
 <hr style="padding-top: 10px;">
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josue-venegas&show_icons=true&locale=en&layout=compact" alt="josue-venegas" style="margin-right: 20px;" />
+</p>
 
 <h4>AI/ML</h4>
 <p align="left">
