@@ -11,7 +11,7 @@
 <p align="center">
   - 👨🏻‍💻 I’m currently working as <strong>Data Scientist</strong> at <a href="https://atacama.bio/"><strong>Atacama Biomaterials</strong></a><br>
   - 🤝 I’m looking for <strong>a Professional Internship (Projet de fin d'études)</strong><br>
-  - 📫 How to reach me <strong>josuevenegasalmonacid@gmail.com</strong>
+  - 📫 How to reach me <a href="mailto:josuevenegasalmonacid@gmail.com"><strong>josuevenegasalmonacid@gmail.com</strong></a>
 </p>
 
 <hr style="padding-top: 10px;">
