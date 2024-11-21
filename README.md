@@ -1,9 +1,4 @@
 [![Banner](./banner.png)](https://www.linkedin.com/in/josue-venegas/)
-<p align="center">
-    <a href="mailto:josuevenegasalmonacid@gmail.com" target="_blank"><img align="center" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="gmail-icon" height="20" /></a>
-    <a href="https://linkedin.com/in/josue-venegas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josue-venegas" height="20" /></a>
-</p>
-
 <h1 align="center" style="padding-top: 10px;">JOSUÉ VENEGAS</h1>
 
 <h3 align="center">💻 Double degree student in last year of Computer Science at UTFSM 🇨🇱 and INSA Lyon 🇫🇷</h3>
@@ -11,7 +6,8 @@
 <p align="center">
   - 🤝 I’m looking for <strong>a Professional Internship (Projet de fin d'études)</strong><br>
   - 💼 You can check my Portfolio <a href="https://josue-venegas.vercel.app/"><strong>here</strong></a><br>
-  - 📫 You can conctact me <a href="mailto:josuevenegasalmonacid@gmail.com"><strong>here</strong></a>
+  - 📝 You can check my CV <a href="https://linkedin.com/in/josue-venegas"><strong>here</strong></a><br>
+  - 📫 You can contact me <a href="mailto:josuevenegasalmonacid@gmail.com"><strong>here</strong></a>
 </p>
 
 <hr style="padding-top: 10px;">
