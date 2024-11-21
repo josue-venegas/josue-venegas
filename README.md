@@ -9,9 +9,9 @@
 <h3 align="center">💻 Double degree student in last year of Computer Science at UTFSM 🇨🇱 and INSA Lyon 🇫🇷</h3>
 
 <p align="center">
-  - 👨🏻‍💻 I’m currently working as <strong>Data Scientist</strong> at <a href="https://atacama.bio/"><strong>Atacama Biomaterials</strong></a><br>
   - 🤝 I’m looking for <strong>a Professional Internship (Projet de fin d'études)</strong><br>
-  - 📫 How to reach me <a href="mailto:josuevenegasalmonacid@gmail.com"><strong>josuevenegasalmonacid@gmail.com</strong></a>
+  - 💼 You can check my Portfolio <a href="https://josue-venegas.vercel.app/"><strong>here</strong></a><br>
+  - 📫 You can conctact me <a href="mailto:josuevenegasalmonacid@gmail.com"><strong>here</strong></a>
 </p>
 
 <hr style="padding-top: 10px;">
